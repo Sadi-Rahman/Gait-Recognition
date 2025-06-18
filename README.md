@@ -8,6 +8,6 @@ Gait motion variances can be caused by a variety of factors, including the walki
 The CASIA gait database B was primarily used in this study. This extensive multiview dataset, established in January 2005, includes three variations: changes in view angle, changes in clothing, and changes in carrying conditions. The proposed GAN-based approach achieved "roughly 62 percent accuracy" in recognizing walking patterns.
 
 ## Results
-![output1](https://github.com/user-attachments/assets/7d23cb27-811f-47c7-8fc8-50a07aeb31bf)
-![output2](https://github.com/user-attachments/assets/a09a02ac-3065-48f5-8b91-40a5d12bd46d)
-![output](https://github.com/user-attachments/assets/d6d1ceb2-a188-4a0c-bdde-200ff5130aca)
+![output1](https://github.com/Sadi-Rahman/Gait-Recognition/blob/main/imgs/Capture1.PNG)
+![output2](https://github.com/Sadi-Rahman/Gait-Recognition/blob/main/imgs/Capture2.PNG)
+![output](https://github.com/Sadi-Rahman/Gait-Recognition/blob/main/imgs/Capture3.PNG)
